@@ -32,6 +32,7 @@ class Climate extends StatelessWidget {
                     color:  Colors.white,
                   ),
                 ),
+
                 text(
                   "Climate",
                   30,

@@ -10,6 +10,7 @@ class GetCar extends GetxController{
 
   setEngine(){
     engin.value=!engin.value;
+    
   }
   setDoor(){
     door.value=!door.value;
